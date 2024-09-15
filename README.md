@@ -2,7 +2,7 @@
 
 ## Introduction
 This study proposes a two-stage preprocessing approach to optimize region-based convolutional neural networks (R-CNNs) for object detection. Our approach addresses the computational bottlenecks caused by the numerous region proposals and aims to replace candidate proposals with a concise set, effectively reducing high-frequency noise in non-object regions.
-
+<!--
 ## Major contributions
 
 • Proposing a multi-task pre-processing approach based on region proposal-based deep object detection algorithms.
@@ -20,4 +20,4 @@ Test images are the object detection data we use in deep learning. You can test 
 
 ### Applying Gaussian Filter
 As a result of generating object proposals by the cascade model, the candidate regions with IoU greater than zero were combined into a single frame, and a Gaussian filter was applied to the non-object regions for each image sample. The generated blurry images are used as input data for the deep learning algorithm.
-
+-->
