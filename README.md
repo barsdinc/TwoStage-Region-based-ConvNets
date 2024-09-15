@@ -2,6 +2,9 @@
 
 ## Introduction
 This study proposes a two-stage preprocessing approach to optimize region-based convolutional neural networks (R-CNNs) for object detection. Our approach addresses the computational bottlenecks caused by the numerous region proposals and aims to replace candidate proposals with a concise set, effectively reducing high-frequency noise in non-object regions.
+
+The dataset and codes will be shared on Github once the study is published.
+
 <!--
 ## Major contributions
 
