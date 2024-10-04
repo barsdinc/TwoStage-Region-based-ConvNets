@@ -33,7 +33,7 @@ As a result of generating object proposals by the cascade model, the candidate r
 ### 2) When the training of the haar cascade is completed the xml file belonging to trained model is created in cascade_dir folder. Files of positive and negative samples used in training are also created in the project folder. 
 ![2](https://github.com/user-attachments/assets/96bea845-19cf-4141-be9a-71699d9bfe40)
 
-### 3) The test folder contains the images you will use for object detection. You can test the trained cascade model by running the test_cascade.py file. The test_boxes.csv file created as a result of the testing process contains the coordinates predicted by the trained model for the object detection images.
+### 3) The test folder contains the images you will use for object detection. You can test the trained cascade model by running the test_cascademodel.py file. The test_boxes.csv file created as a result of the testing process contains the coordinates predicted by the trained model for the object detection images.
 ![3 1](https://github.com/user-attachments/assets/4a62dde0-2a13-41ec-934f-b2884df0e411)
 
 
